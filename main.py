@@ -16,7 +16,7 @@ import re
 nlp = spacy.load('en_core_web_sm')
 
 # Set OpenAI API key
-openai.api_key = "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"
+openai.api_key = "your_key"
 
 
 # Define a dictionary of available custom functions
